@@ -2,7 +2,11 @@ build/
 /tags
 /bazel-*
 
-bin
-bin-int
-yaml-cpp.vcxproj
-yaml-cpp.vcxproj.filters
+# Hazel-specific
+# Directories
+bin/
+bin-int/
+
+# Visual Studio files and folder
+*.sln
+*.vcxproj*
