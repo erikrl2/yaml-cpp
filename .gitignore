@@ -2,8 +2,7 @@ build/
 /tags
 /bazel-*
 
-# Hazel-specific
-# Directories
+# Bin Directories
 bin/
 bin-int/
 
