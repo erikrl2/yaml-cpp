@@ -1,3 +1,11 @@
 build/
 /tags
 /bazel-*
+
+# Bin Directories
+bin/
+bin-int/
+
+# Visual Studio files and folder
+*.sln
+*.vcxproj*
